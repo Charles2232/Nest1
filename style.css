@@ -1,0 +1,62 @@
+body
+{
+ background-image: url(https://i.pinimg.com/474x/ef/a4/68/efa468e505fa4ce84ec81ab9521a1280.jpg);
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+.hdr
+{
+    text-align: center;
+    text-size-adjust: xx-large;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-style: bold;
+}
+nav
+{
+    background-color: transparent;
+    box-shadow: 0px 0px 20px;
+    color: black;
+}
+.state
+{
+    text-align: center;
+    text-size-adjust: xx-large;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-style: bold;  
+}
+img
+{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.imgg
+{ 
+    width: 80%;
+    height: 80%;
+}
+a
+{
+    color: black;
+}
+.stim
+{
+    width: 400px;
+    height: 200px;
+}
+.spot
+{
+    margin-left: 30px;
+}
+.card
+{
+    height: 450px;
+}
+.col:hover
+{
+    scale: 105%;
+    cursor: pointer;
+    border-radius: 10%;
+}
